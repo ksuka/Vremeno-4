@@ -1,0 +1,126 @@
+body{
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: #281D1D;
+}
+
+.menu > a{
+    color:#00FFFF;
+   text-decoration: none;
+   font-size: 1.3vw;
+   position: fixed;
+   margin-top: 1vw;
+   margin-left: 1.9vw;
+}
+
+.navv{
+    display:flex;
+    justify-content: space-between;
+width: 38vw;
+position: fixed;
+margin-left: 60vw;
+margin-top: 1vw;
+}
+
+.navv a{
+    color:#00FFFF;
+   text-decoration: none;
+   font-size: 1.3vw;
+}
+
+.section1{
+    width: 100vw;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.page1 {
+    position:absolute;
+    width: 17%;
+    margin-top: 5vw;
+    margin-left: 8vw;
+}
+
+.page2 {
+    position:absolute;
+    width: 17%;
+    margin-top: 19vw;
+    margin-left: 19vw;
+}
+
+.page3 {
+    position: absolute;
+    width: 17%;
+    margin-top: 30vw;
+    margin-left: 28vw;
+}
+
+.casino{
+    color: #00FFFF;
+    font-size: 7.5vw;
+    margin-top: 10vw;
+    letter-spacing: -0.1vw;
+    margin-left: 52vw;
+}
+
+
+.read{
+    border-radius: 2vw;
+    border: 0.2vw solid #39FF14;
+    background-color: #281D1D;
+    width: 18vw;
+    height: 3.5vw;
+    margin-top: 33vw;
+    margin-left: -42vw;
+}
+
+.read a{
+    text-decoration: none;
+    color: #39FF14;
+    font-size: 2vw;
+    font-weight: normal;
+}
+
+.page4 {
+    position: absolute;
+    width: 17%;
+    margin-top: 46vw;
+    margin-left: 15vw;
+}
+
+.page5{
+    position: absolute;
+    width: 17%;
+    margin-top: 70vw;
+    margin-left: 18vw;
+}
+
+.page6{
+    position: absolute;
+    width: 17%;
+    margin-top: 61vw;
+    margin-left: 2vw;
+}
+
+.br{
+    color: #00FFFF;
+    margin-top: 20vw;
+    font-size: 1.5vw;
+    margin-left: 40vw;
+}
+
+.ov{
+    color: #00FFFF;
+    margin-top: 0;
+    font-size: 1.5vw;
+    margin-left: 51vw;
+}
+
+
+.ts{
+color: #00FFFF;
+    margin-top: 2vw;
+    font-size: 1.5vw;
+    margin-right: 13vw;
+    text-align: right;
+}

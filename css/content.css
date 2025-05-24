@@ -1,0 +1,31 @@
+body{
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.menu > a{
+    color:black;
+   text-decoration: none;
+   font-size: 1.3vw;
+   position: fixed;
+   margin-top: 1vw;
+   margin-left: 1.9vw;
+}
+
+.navv{
+    display:flex;
+    justify-content: space-between;
+width: 38vw;
+position: fixed;
+margin-left: 60vw;
+margin-top: 1vw;
+}
+
+.navv a{
+    color:black;
+   text-decoration: none;
+   font-size: 1.3vw;
+}
+
+
+
