@@ -118,9 +118,243 @@ margin-top: 1vw;
 
 
 .ts{
-color: #00FFFF;
+    color: #00FFFF;
     margin-top: 2vw;
     font-size: 1.5vw;
     margin-right: 13vw;
     text-align: right;
+}
+
+.page7 {
+    position: absolute;
+    width: 17%;
+    margin-top: 82vw;
+    margin-left: 8vw;
+}
+
+.page8 {
+    position: absolute;
+    width: 17%;
+    margin-top: 92vw;
+    margin-left: 22vw;
+}
+
+.page9 {
+    position: absolute;
+    width: 17%;
+    margin-top: 100vw;
+    margin-left: 36vw;
+}
+
+.page10 {
+    position: absolute;
+    width: 17%;
+    margin-top: 110vw;
+    margin-left: 65vw;
+}
+
+
+.page11 {
+    position: absolute;
+    width: 17%;
+margin-top: 122.5vw;
+    margin-left: 50vw;
+}
+
+.page12 {
+    position: absolute;
+    width: 17%;
+margin-top: 132vw;
+    margin-left: 42vw;
+}
+
+.page13 {
+    position: absolute;
+    width: 17%;
+    margin-top: 149vw;
+    margin-left: 28vw;
+}
+
+.page14 {
+    position: absolute;
+    width: 17%;
+margin-top: 160vw;
+    margin-left: 15vw;
+}
+
+.page15 {
+    position: absolute;
+    width: 17%;
+margin-top: 175vw;
+    margin-left: 7vw;
+}
+
+.page16 {
+    position: absolute;
+    width: 17%;
+    margin-top: 185vw;
+    margin-left: 30vw;
+}
+
+.tr{
+    color: #00FFFF;
+    margin-top: 6vw;
+    font-size: 1.5vw;
+    margin-right: 35vw;
+    text-align: right;
+}
+
+.iw{
+    color: #00FFFF;
+    margin-top: 1vw;
+    font-size: 1.5vw;
+    margin-right: 14vw;
+    text-align: right;
+}
+
+.ns{
+    color: #00FFFF;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    margin-left: 52vw;
+}
+
+.de{
+    color: #00FFFF;
+margin-top: -3vw;
+    font-size: 1.5vw;
+    margin-left: 57vw
+}
+
+.ou{
+    color: #00FFFF;
+    margin-top: 6vw;
+    font-size: 1.5vw;
+    margin-left: 75vw;
+}
+
+.plashka{
+    border-radius: 2vw;
+    border: 0.2vw solid #39FF14;
+    background-color: #281D1D;
+    width: 34vw;
+    height: 24vw;
+    margin-top: 11vw;
+    margin-left: 2vw;
+}
+
+.VREMENO{
+    color: #39FF14;
+    font-size: 4vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.price{
+    color: #39FF14;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.personal{
+    color: #39FF14;
+font-size: 1.3vw;
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+
+.readd{
+    border-radius: 2vw;
+    border: 0.2vw solid #39FF14;
+    background-color: #281D1D;
+    width: 18vw;
+    height: 3.5vw;
+margin-top: 4.2vw;
+    margin-left: 2vw;
+}
+
+.readd a{
+    text-decoration: none;
+    color: #39FF14;
+    font-size: 2vw;
+    font-weight: normal;
+}
+
+.ib{
+    color: #00FFFF;
+    margin-top: 6vw;
+    font-size: 1.5vw;
+    margin-right: 5vw;
+    text-align: right;
+}
+
+.cw{
+    color: #00FFFF;
+    margin-top: 2vw;
+    font-size: 1.5vw;
+    margin-left: 55vw;
+}
+
+.pp{
+    color: #00FFFF;
+    margin-top: 6vw;
+    font-size: 1.5vw;
+    margin-left: 50vw;
+}
+
+.la{
+    color: #00FFFF;
+    margin-top: 1vw;
+    font-size: 1.5vw;
+    margin-left: 64vw;
+}
+
+.nc{
+    color: #00FFFF;
+    margin-top: 9vw;
+    font-size: 1.5vw;
+    margin-left: 16vw;
+    text-align: center;
+}
+
+.re{
+    color: #00FFFF;
+    margin-top: 1vw;
+    font-size: 1.5vw;
+    margin-left: 60vw;
+}
+
+footer{
+    width: 100vw;
+    margin-top: 12vw;
+    overflow-x: hidden;
+    height: 27vw;
+}
+
+.footer{
+    width: 110%;
+}
+
+.name{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+    text-align: center;
+}
+
+.curator{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: -2vw;
+    text-align: right;
+    margin-right: 3vw;
 }

@@ -13,6 +13,13 @@
 }
 
 @font-face{
+    font-family: "Montserrat-Bold";
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf) format("truetype");
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face{
     font-family: "Montserrat-Medium";
     src: url(../fonts/Montserrat-VariableFont_wght.ttf) format("truetype");
     font-style: normal;
@@ -22,8 +29,10 @@
 
 .navv, .menu{font-family: "Montserrat-SemiBold";}
 
-h1{font-family: "Montserrat-Medium";}
+h1{font-family: "Montserrat-Bold";}
 
 p{font-family: "Montserrat-Regular";}
 
 .read{font-family: "Montserrat-Regular";}
+
+.chance, .lost, .last, .time, .ready, .fight{font-family: "Montserrat-Medium";}

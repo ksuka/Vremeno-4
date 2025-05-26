@@ -1,0 +1,50 @@
+body{
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: #2B3A31;
+}
+
+.menu > a{
+    color:#FCF5F0;
+   text-decoration: none;
+   font-size: 1.3vw;
+   position: fixed;
+   margin-top: 1vw;
+   margin-left: 1.9vw;
+}
+
+.navv{
+    display:flex;
+    justify-content: space-between;
+width: 38vw;
+position: fixed;
+margin-left: 60vw;
+margin-top: 1vw;
+}
+
+.navv a{
+    color:#FCF5F0;
+   text-decoration: none;
+   font-size: 1.3vw;
+}
+
+.events{
+    color:#FCF5F0;
+    position: absolute;
+    font-size: 7vw;
+    margin-top: 5vw;
+    letter-spacing: -0.1vw;
+    margin-left: 2vw;
+}
+
+.slide{
+    width: 100vw;
+    height: 80vw;
+}
+
+.notime{
+    width: 40vw;
+    height: 40vw;
+    margin-top: 15vw;
+    
+}

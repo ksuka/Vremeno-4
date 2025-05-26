@@ -27,5 +27,97 @@ margin-top: 1vw;
    font-size: 1.3vw;
 }
 
+.VREMENO{
+   color:black;
+   font-size: 6vw;
+   margin-top: 13vw;
+   margin-left: 3vw;
+   position: absolute;
+}
 
+.chance{
+    color:black;
+    font-size: 1.7vw;
+    margin-top: 22vw;
+    margin-left: 12vw;
+    position: absolute;
+}
 
+.lost{
+    color:black;
+    font-size: 1.7vw;
+    margin-top: 23.7vw;
+    margin-left: 18vw;
+    position: absolute;
+}
+
+.last{
+    color:black;
+    font-size: 1.7vw;
+    margin-top: 25.4vw;
+    margin-left: 22vw;
+    position: absolute;
+}
+
+.time{
+    color:black;
+    font-size: 1.7vw;
+    margin-top: 29vw;
+    margin-left: 15vw;
+    position: absolute;
+}
+
+.ready{
+    color: black;
+    font-size: 1.7vw;
+    margin-top: 32vw;
+    margin-left: 22vw;
+    position: absolute;
+}
+
+.fight{
+    color: black;
+    font-size: 1.7vw;
+    margin-top: 37vw;
+    margin-left: 25vw;
+    position: absolute;
+}
+
+.sand{
+    width: 50%;
+    margin-top: -2vw;
+    margin-left: 45vw;
+}
+
+footer{
+    width: 100vw;
+    overflow-x: hidden;
+    height: 27vw;
+}
+
+.footer{
+    width: 110%;
+}
+
+.name{
+    color: black;
+    font-size: 2vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    color: black;
+    font-size: 2vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+    text-align: center;
+}
+
+.curator{
+    color: black;
+    font-size: 2vw;
+    margin-top: -2vw;
+    text-align: right;
+    margin-right: 3vw;
+}
