@@ -29,15 +29,15 @@ margin-top: 1vw;
 
 .VREMENO{
    color:black;
-   font-size: 6vw;
-   margin-top: 13vw;
+    font-size: 5vw;
+    margin-top: 16vw;
    margin-left: 3vw;
    position: absolute;
 }
 
 .chance{
     color:black;
-    font-size: 1.7vw;
+    font-size: 1.6vw;
     margin-top: 22vw;
     margin-left: 12vw;
     position: absolute;
@@ -45,7 +45,7 @@ margin-top: 1vw;
 
 .lost{
     color:black;
-    font-size: 1.7vw;
+    font-size: 1.6vw;
     margin-top: 23.7vw;
     margin-left: 18vw;
     position: absolute;
@@ -53,31 +53,31 @@ margin-top: 1vw;
 
 .last{
     color:black;
-    font-size: 1.7vw;
-    margin-top: 25.4vw;
+    font-size: 1.6vw;
+    margin-top: 25.35vw;
     margin-left: 22vw;
     position: absolute;
 }
 
 .time{
     color:black;
-    font-size: 1.7vw;
-    margin-top: 29vw;
+    font-size: 1.6vw;
+margin-top: 28.7vw;
     margin-left: 15vw;
     position: absolute;
 }
 
 .ready{
     color: black;
-    font-size: 1.7vw;
-    margin-top: 32vw;
+    font-size: 1.6vw;
+margin-top: 31.5vw;
     margin-left: 22vw;
     position: absolute;
 }
 
 .fight{
     color: black;
-    font-size: 1.7vw;
+    font-size: 1.6vw;
     margin-top: 37vw;
     margin-left: 25vw;
     position: absolute;
@@ -87,12 +87,14 @@ margin-top: 1vw;
     width: 50%;
     margin-top: -2vw;
     margin-left: 45vw;
+    position:absolute;
 }
 
 footer{
     width: 100vw;
     overflow-x: hidden;
     height: 27vw;
+    margin-top: 45vw;
 }
 
 .footer{
@@ -120,4 +122,107 @@ footer{
     margin-top: -2vw;
     text-align: right;
     margin-right: 3vw;
+}
+
+.pic1{
+    margin-top: 8.3vw;
+   position:absolute;
+   margin-left: 6vw;
+width: 5.6%;
+   transition: pic1 0.7s ease;
+   transform-origin: center;
+}
+
+.pic1:hover{
+   transform:scale(1.3);
+}
+
+.pic2{
+margin-top: 3vw;
+    margin-left: 12vw;
+   width: 7%;
+   transition: pic2 0.3s ease;
+   transform-origin: center;
+}
+
+.pic2:hover{
+   transform:scale(1.3);
+}
+
+.pic3{
+    margin-top: 5vw;
+    position: absolute;
+    margin-left: -0.1vw;
+   width: 6.5%;
+   transition: pic2 0.3s ease;
+   transform-origin: center;
+}
+
+.pic3:hover{
+   transform:scale(1.3);
+}
+
+.pic4{
+   position: absolute;
+   margin-top: 9vw;
+   margin-left: 4vw;
+    width: 5.5%;
+   transition: pic2 0.3s ease;
+   transform-origin: center;
+}
+
+.pic4:hover{
+   transform:scale(1.3);
+}
+
+.pic5{
+position: absolute;
+    margin-top: 12vw;
+    margin-left: 10vw;
+    width: 4.5%;
+    transition: pic2 0.3s ease;
+    transform-origin: center;
+}
+
+.pic5:hover{
+   transform:scale(1.3);
+}
+
+.pic6{
+position: absolute;
+    margin-top: 14vw;
+    margin-left: 13vw;
+    width: 3.5%;
+    transition: pic2 0.3s ease;
+    transform-origin: center;
+}
+
+.pic6:hover{
+   transform:scale(1.3);
+}
+
+.pic7{
+position: absolute;
+    margin-top: 15vw;
+    margin-left: 16.45vw;
+    width: 3.8%;
+    transition: pic2 0.3s ease;
+    transform-origin: center;
+}
+
+.pic7:hover{
+   transform:scale(1.3);
+}
+
+.pic8{
+    position: absolute;
+    margin-top: 13vw;
+    margin-left: 20vw;
+    width: 3.5%;
+    transition: pic2 0.3s ease;
+    transform-origin: center;
+}
+
+.pic8:hover{
+   transform:scale(1.3);
 }
