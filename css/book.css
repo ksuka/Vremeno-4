@@ -1,11 +1,11 @@
 body{
     width: 100vw;
     overflow-x: hidden;
-    background-color: #281D1D;
+    background-color: #2B3A30;
 }
 
 .menu > a{
-    color:#00FFFF;
+    color:#FBEFE7;
    text-decoration: none;
    font-size: 1.3vw;
    position: fixed;
@@ -23,7 +23,7 @@ margin-top: 1vw;
 }
 
 .navv a{
-    color:#00FFFF;
+    color:#FBEFE7;
    text-decoration: none;
    font-size: 1.3vw;
 }
@@ -56,28 +56,29 @@ margin-top: 1vw;
 }
 
 .casino{
-    color: #00FFFF;
-    font-size: 7.5vw;
+    color: #FBEFE7;
+    font-size: 6vw;
     margin-top: 10vw;
     letter-spacing: -0.1vw;
     margin-left: 52vw;
+    letter-spacing: -7%;
 }
 
 
 .read{
     border-radius: 2vw;
-    border: 0.2vw solid #39FF14;
-    background-color: #281D1D;
-    width: 18vw;
-    height: 3.5vw;
+    border: 0.2vw solid #FBEFE7;
+    background-color: #2B3A30;
+    width: 15vw;
+    height: 3vw;
     margin-top: 33vw;
     margin-left: -42vw;
 }
 
 .read a{
     text-decoration: none;
-    color: #39FF14;
-    font-size: 2vw;
+    color: #FBEFE7;
+    font-size: 1.5vw;
     font-weight: normal;
 }
 
@@ -103,14 +104,14 @@ margin-top: 1vw;
 }
 
 .br{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 20vw;
     font-size: 1.5vw;
     margin-left: 40vw;
 }
 
 .ov{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 0;
     font-size: 1.5vw;
     margin-left: 51vw;
@@ -118,7 +119,7 @@ margin-top: 1vw;
 
 
 .ts{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 2vw;
     font-size: 1.5vw;
     margin-right: 13vw;
@@ -197,7 +198,7 @@ margin-top: 175vw;
 }
 
 .tr{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 6vw;
     font-size: 1.5vw;
     margin-right: 35vw;
@@ -205,7 +206,7 @@ margin-top: 175vw;
 }
 
 .iw{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 1vw;
     font-size: 1.5vw;
     margin-right: 14vw;
@@ -213,21 +214,21 @@ margin-top: 175vw;
 }
 
 .ns{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 5vw;
     font-size: 1.5vw;
     margin-left: 52vw;
 }
 
 .de{
-    color: #00FFFF;
+    color: #FBEFE7;
 margin-top: -3vw;
     font-size: 1.5vw;
     margin-left: 57vw
 }
 
 .ou{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 6vw;
     font-size: 1.5vw;
     margin-left: 75vw;
@@ -235,8 +236,8 @@ margin-top: -3vw;
 
 .plashka{
     border-radius: 2vw;
-    border: 0.2vw solid #39FF14;
-    background-color: #281D1D;
+    border: 0.2vw solid #FBEFE7;
+    background-color: #2B3A30;
     width: 34vw;
     height: 24vw;
     margin-top: 11vw;
@@ -244,21 +245,21 @@ margin-top: -3vw;
 }
 
 .VREMENO{
-    color: #39FF14;
+    color: #FBEFE7;
     font-size: 4vw;
     margin-top: 2vw;
     margin-left: 2vw;
 }
 
 .price{
-    color: #39FF14;
+    color: #FBEFE7;
     font-size: 2vw;
     margin-top: 2vw;
     margin-left: 2vw;
 }
 
 .personal{
-    color: #39FF14;
+    color: #FBEFE7;
 font-size: 1.3vw;
     margin-top: 1vw;
     margin-left: 2vw;
@@ -266,8 +267,8 @@ font-size: 1.3vw;
 
 .readd{
     border-radius: 2vw;
-    border: 0.2vw solid #39FF14;
-    background-color: #281D1D;
+    border: 0.2vw solid #FBEFE7;
+    background-color: #2B3A30;
     width: 18vw;
     height: 3.5vw;
 margin-top: 4.2vw;
@@ -276,13 +277,13 @@ margin-top: 4.2vw;
 
 .readd a{
     text-decoration: none;
-    color: #39FF14;
+    color: #FBEFE7;
     font-size: 2vw;
     font-weight: normal;
 }
 
 .ib{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 6vw;
     font-size: 1.5vw;
     margin-right: 5vw;
@@ -290,28 +291,28 @@ margin-top: 4.2vw;
 }
 
 .cw{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 2vw;
     font-size: 1.5vw;
     margin-left: 55vw;
 }
 
 .pp{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 6vw;
     font-size: 1.5vw;
     margin-left: 50vw;
 }
 
 .la{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 1vw;
     font-size: 1.5vw;
     margin-left: 64vw;
 }
 
 .nc{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 9vw;
     font-size: 1.5vw;
     margin-left: 16vw;
@@ -319,7 +320,7 @@ margin-top: 4.2vw;
 }
 
 .re{
-    color: #00FFFF;
+    color: #FBEFE7;
     margin-top: 1vw;
     font-size: 1.5vw;
     margin-left: 60vw;
