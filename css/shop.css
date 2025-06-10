@@ -1,0 +1,108 @@
+body{
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
+
+.menu > a{
+    color:black;
+   text-decoration: none;
+   font-size: 1.3vw;
+   position: fixed;
+   margin-top: 1vw;
+   margin-left: 1.9vw;
+}
+
+.navv{
+    display:flex;
+    justify-content: space-between;
+width: 38vw;
+position: fixed;
+margin-left: 60vw;
+margin-top: 1vw;
+}
+
+.navv a{
+    color:black;
+   text-decoration: none;
+   font-size: 1.3vw;
+}
+
+.shopp{
+    font-size: 6vw;
+    margin-top: 10vw;
+    letter-spacing: -0.1vw;
+    margin-left: 1.9vw;
+    letter-spacing: -7%;
+    position: absolute;
+}
+
+.shop{font-family: "Montserrat-Bold";}
+
+.cart{
+    border-radius: 2vw;
+    border: 0.2vw solid #000000;
+    background-color: #ffffff;
+    width: 15vw;
+    height: 3vw;
+    margin-top: 10.5vw;
+    margin-left: 77vw;
+}
+
+.cart a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: normal;
+}
+
+.lighter{
+    /*border-radius: 2vw;
+    margin-top: 3vw;
+    border: 0.2vw solid #000000;
+    width: 50vw;
+    height: 40vw;
+    margin-top: 4vw;
+    margin-left: 3vw;*/
+
+    border-radius: 2vw;
+    margin-top: 6vw;
+    border: 0.2vw solid #000000;
+    width: 48.5vw;
+    height: 34vw;
+    margin-left: 8vw;
+}
+
+.lighterr{
+    margin-top: 27vw;
+    margin-left: 1.8vw;
+    font-size: 1.8vw;
+}
+
+.price1{
+    margin-top: 0.6vw;
+    margin-left: 1.8vw;
+    font-size: 1.5vw;
+}
+
+.ring{
+    border-radius: 2vw;
+    margin-top: 3vw;
+    border: 0.2vw solid #000000;
+    width: 34vw;
+    height: 30vw;
+    margin-top: -34.3vw;
+    margin-left: 58vw;
+}
+
+.ringg{
+    margin-top: 23vw;
+    margin-left: 1.8vw;
+    font-size: 1.8vw;
+}
+
+.price2{
+    margin-top: 0.6vw;
+    margin-left: 1.8vw;
+    font-size: 1.5vw;
+}
