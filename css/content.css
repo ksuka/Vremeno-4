@@ -27,6 +27,10 @@ margin-top: 1vw;
    font-size: 1.3vw;
 }
 
+.main_page{
+    margin-top: -50vw;
+}
+
 .VREMENO{
    color:black;
     font-size: 5vw;
@@ -83,6 +87,8 @@ margin-top: 31.5vw;
     position: absolute;
 }
 
+
+/*
 .sand{
     width: 50%;
     margin-top: -2vw;
@@ -96,7 +102,37 @@ margin-top: 31.5vw;
     margin-left: 38.5vw;
     position: absolute;
 }
+*/
 
+.sands{
+    width: 42vw;
+    height: 50vw;
+    margin-left: 45vw;
+    position: relative;
+    background-image: url(../img/sands.png);
+    background-size:cover;
+    overflow: hidden;
+    animation: sands 2s steps(1) infinite;
+    pointer-events: none;
+}
+
+@keyframes sands{
+    0%{ background-position: 0;}
+    50%{ background-position: -46vw;}
+    70%{ background-position: -94vw;}
+    100%{ background-position: 0vw;}
+
+
+    /*40%{ background-position: -140vw;}
+    60%{ background-position: -210vw;}
+    100%{ background-position: -280vw;}*/
+}
+
+/*.sands img{
+        width: 60%;
+    height: 50%;
+    overflow-x: hidden;
+}*/
 
 footer{
     width: 100vw;
@@ -140,6 +176,7 @@ width: 5.6%;
    transition: pic1 0.7s ease;
    transform-origin: center;
 }
+
 
 .pic1:hover{
    transform:scale(1.3);

@@ -9,7 +9,7 @@ body{
    text-decoration: none;
    font-size: 1.3vw;
    position: fixed;
-   margin-top: 1vw;
+   margin-top: 8vw;
    margin-left: 1.9vw;
 }
 
@@ -19,7 +19,7 @@ body{
 width: 38vw;
 position: fixed;
 margin-left: 60vw;
-margin-top: 1vw;
+margin-top: 8vw;
 }
 
 .navv a{
@@ -28,7 +28,16 @@ margin-top: 1vw;
    font-size: 1.3vw;
 }
 
+.frame{
+    margin-top: -7vw;
+}
+
+.frame img{
+    width: 30%;
+}
+
 .section1{
+    margin-top: -145vw;
     width: 100vw;
     display: flex;
     justify-content: flex-start;
@@ -235,9 +244,9 @@ margin-top: -3vw;
 }
 
 .plashka{
-    border-radius: 2vw;
+    /*border-radius: 2vw;
     border: 0.2vw solid #FBEFE7;
-    background-color: #2B3A30;
+    background-color: #2B3A30;*/
     width: 34vw;
     height: 24vw;
     margin-top: 11vw;
