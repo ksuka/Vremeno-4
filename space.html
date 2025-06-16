@@ -1,58 +1,48 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Цвет текста и фона меняется вместе по скроллу</title>
-  <style>
-    body {
-      margin: 0;
-      height: 200vh; /* чтобы была прокрутка */
-      transition: background-color 0.3s ease, color 0.3s ease;
-      font-family: Arial, sans-serif;
-      color: black; /* начальный цвет текста */
-      padding: 20px;
-    }
-    h1 {
-      margin-top: 150vh; /* чтобы заголовок был почти внизу страницы */
-    }
-  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/space.css">
+  <link rel="icon" href="./img/fav-ic4.png">
+  <script src="./js/index.js"></script>
 </head>
 <body>
 
-<p>Прокручивай страницу вниз, чтобы увидеть плавное изменение цвета текста и фона.</p>
+  <nav>
+        <div class="menu"><a class="logo" href="./index.html">Vremeno</a></div>
+        <div class="navv">
+        <a href="./book.html">Книга</a>
+        <a href="./events.html">События</a>
+        <a href="./shop.html">Магазин</a>
+        <a class="bold" href="./space.html">Помещение</a>
+        </div>
+      </nav>
 
-<h1>Текст меняет цвет плавно вместе с фоном</h1>
 
-<script>
-  window.addEventListener('scroll', () => {
-    const maxScroll = document.body.scrollHeight - window.innerHeight;
-    const scrollY = window.scrollY;
-    const scrollPercent = scrollY / maxScroll;
+  <section class="section1">    
 
-    const bgStart = { r: 255, g: 255, b: 255 };
-    const bgEnd = { r: 0, g: 0, b: 100 };
+  <h1 class="spaace">НОВАЯ <br> ТОЧКА <br> КАЗИНО</h1>
+  <button class="visit"><a href="https://vimeo.com/1070871912?share=copy">ПОСЕТИТЬ</a></button>
 
-    const textStart = { r: 0, g: 0, b: 0 };
-    const textEnd = { r: 255, g: 255, b: 255 };
+  <p class="opport">Vremeno предоставляет возможность <br>
+     посетить невероятно красивое <br>
+     и загадочное казино, где гости могут<br> 
+     попытать удачу.</p>
 
-    function lerp(start, end, t) {
-      return Math.round(start + (end - start) * t);
-    }
+  <img class="maze" src="./img/maze.jpg" alt="">
 
-    const bgR = lerp(bgStart.r, bgEnd.r, scrollPercent);
-    const bgG = lerp(bgStart.g, bgEnd.g, scrollPercent);
-    const bgB = lerp(bgStart.b, bgEnd.b, scrollPercent);
+  <p class="play">Играть на жизнь <br> непросто, порой <br> бывает трудно  <br> решиться  <br>
+на этот шаг.
+</p>
 
-    const textR = lerp(textStart.r, textEnd.r, scrollPercent);
-    const textG = lerp(textStart.g, textEnd.g, scrollPercent);
-    const textB = lerp(textStart.b, textEnd.b, scrollPercent);
+</section>
 
-    document.body.style.backgroundColor = `rgb(${bgR}, ${bgG}, ${bgB})`;
-    document.body.style.color = `rgb(${textR}, ${textG}, ${textB})`;
-  });
-</script>
+
+
+
 
 </body>
 </html>
-

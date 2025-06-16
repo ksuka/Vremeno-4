@@ -31,8 +31,10 @@
 
 h1{font-family: "Montserrat-Bold";}
 
-p{font-family: "Montserrat-Regular";}
+p{font-family: "Montserrat-Medium";}
 
 .read{font-family: "Montserrat-Regular";}
 
 .chance, .lost, .last, .time, .ready, .fight{font-family: "Montserrat-Medium";}
+
+.bold{font-family: "Montserrat-Bold";}
