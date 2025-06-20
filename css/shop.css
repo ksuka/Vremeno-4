@@ -227,6 +227,63 @@ width: 90%;
     font-size: 1.5vw;
 }
 
+.receipt{
+    position:absolute;
+    background:#0000006a;
+    /*display: flex;
+    align-content: center;*/
+    width: 100vw;
+    height: 150vw;
+    margin-top: -150vw;
+    display: none;
+}
+
+.receipt img{
+width: 25%;
+margin-top: 12vw;
+margin-left: 36vw;
+}
+
+.btn0{
+    position: absolute;
+    border-radius: 2vw;
+    border: 0.2vw solid #000000;
+    background-color: #ffffff;
+    width: 15vw;
+    height: 3vw;
+margin-top: 48vw;
+    margin-left: -20vw;
+    font-family:  "Montserrat-Medium";
+}
+
+.btn0 a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: normal;
+}
+
+.btn{
+    position: absolute;
+    border-radius: 2vw;
+    border: 0.2vw solid #000000;
+    background-color: #ffffff;
+    width: 15vw;
+    height: 3vw;
+margin-top: 52vw;
+    margin-left: -20vw;
+    font-family:  "Montserrat-Medium";
+}
+
+.btn a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: normal;
+}
+
+
+
 footer{
     width: 100vw;
     overflow-x: hidden;

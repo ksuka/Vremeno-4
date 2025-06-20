@@ -1,15 +1,19 @@
 document.addEventListener("DOMContentLoaded", function(){
 
-let sand = document.querySelector(".sand");
-let sand2 = document.querySelector(".sand2");
-
-sand.addEventListener("", function(){
-    sand.classList.toggle('visible');
     
+const receipt = document.querySelector('.receipt');
+const cards = document.querySelector('.cards');
+
+cards.addEventListener('click', function() {
+
+ receipt.style.display = "block";
+});
+
+receipt.addEventListener('click', function() {
+
+ receipt.style.display = "none";
+});
 
 
-})
 
-
-
-})
+});
