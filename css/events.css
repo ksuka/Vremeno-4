@@ -9,7 +9,7 @@ body{
    text-decoration: none;
    font-size: 1.3vw;
    position: fixed;
-   margin-top: 1vw;
+   margin-top: -14vw;
    margin-left: 1.9vw;
 }
 
@@ -19,7 +19,7 @@ body{
 width: 38vw;
 position: fixed;
 margin-left: 60vw;
-margin-top: 1vw;
+margin-top: -14vw;
 }
 
 .navv a{
@@ -32,19 +32,53 @@ margin-top: 1vw;
     color:#FCF5F0;
     position: absolute;
     font-size: 7vw;
-    margin-top: 5vw;
+    margin-top: -8vw;
     letter-spacing: -0.1vw;
     margin-left: 2vw;
 }
 
+
+/*
 .slide{
     width: 100vw;
     height: 80vw;
 }
+
 
 .notime{
     width: 40vw;
     height: 40vw;
     margin-top: 15vw;
     
+}*/
+
+.posters{
+    width: 30vw;
+    margin-left: 5vw;
+    margin-top: 15vw;
+
+}
+
+.poster1{
+    width: 90%;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.poster2{
+    width: 90%;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.poster3{
+    width: 90%;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.poster4{
+    width: 90%;
+    margin-top: 2vw;
+    margin-left: 2vw;
 }

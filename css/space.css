@@ -64,7 +64,7 @@ margin-top: 1vw;
 
 .maze{
     width: 28vw;
-    margin-top: -33vw;
+    margin-top: -38vw;
     margin-left: 52vw;
 }
 
@@ -76,12 +76,12 @@ margin-top: -30vw;
 
 .maze2{
     width: 20vw;
-    margin-top: 19vw;
+    margin-top: 25vw;
     margin-left: 27vw;
 }
 
 .find{
-margin-top: -10vw;
+margin-top: -15vw;
     font-size: 1.5vw;
     margin-left: 55vw;
     text-align: left;
@@ -90,7 +90,7 @@ margin-top: -10vw;
 .lobby{
 width: 28vw;
     margin-top: 15vw;
-    margin-left: 15vw;
+    margin-left: 9vw;
 }
 
 .vremeno{
@@ -154,9 +154,9 @@ margin-top: 0vw;
 }
 
 .bar{
-width: 28vw;
-    margin-top: -39vw;
-    margin-left: 35vw;
+    width: 28vw;
+    margin-top: -37vw;
+    margin-left: 39vw;
 }
 
 .hourglass{
@@ -198,4 +198,43 @@ margin-top: 5vw;
     font-size: 1.5vw;
     margin-left: 70vw;
     text-align: left;
+}
+
+footer{
+    width: 100vw;
+    overflow-x: hidden;
+    height: 27vw;
+    margin-top: 5vw;
+}
+
+.footer{
+    width: 110%;
+}
+
+.name{
+    color: black;
+    font-size: 2vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    color: black;
+    font-size: 2vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+    text-align: center;
+}
+
+.curator{
+    color: black;
+    font-size: 2vw;
+    margin-top: -2vw;
+    text-align: right;
+    margin-right: 3vw;
+}
+
+.video{
+    margin-top: 7vw;
+    margin-left: 27vw;
 }
