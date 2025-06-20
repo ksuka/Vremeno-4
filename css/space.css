@@ -73,3 +73,129 @@ margin-top: -30vw;
     font-size: 1.5vw;
     margin-left: 82vw;
 }
+
+.maze2{
+    width: 20vw;
+    margin-top: 19vw;
+    margin-left: 27vw;
+}
+
+.find{
+margin-top: -10vw;
+    font-size: 1.5vw;
+    margin-left: 55vw;
+    text-align: left;
+}
+
+.lobby{
+width: 28vw;
+    margin-top: 15vw;
+    margin-left: 15vw;
+}
+
+.vremeno{
+margin-top: -34vw;
+    font-size: 1.5vw;
+    margin-left: 60vw;
+    text-align: left;
+}
+
+.drunk{
+margin-top: 4vw;
+    font-size: 1.5vw;
+    margin-left: 52vw;
+    text-align: left;
+}
+
+
+.register{
+margin-top: 0vw;
+    font-size: 1.5vw;
+    margin-left: 62vw;
+    text-align: left;
+}
+
+.operate{
+    margin-top: 0vw;
+    font-size: 1.5vw;
+    margin-left: 69vw;
+    text-align: left;
+}
+
+.atmosphere{
+    font-size: 4vw;
+    margin-top: 18vw;
+    margin-left: 1.9vw;
+}
+
+.here{
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    margin-left: 2vw;
+    text-align: left;
+}
+
+.barcard{
+    border-radius: 2vw;
+    border: 0.2vw solid #000000;
+    background-color: #ffffff;
+    width: 17vw;
+    height: 3vw;
+    margin-top: 3vw;
+    margin-left: 1.9vw;
+    font-family:  "Montserrat-Medium";
+}
+
+.barcard a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: normal;
+}
+
+.bar{
+width: 28vw;
+    margin-top: -39vw;
+    margin-left: 35vw;
+}
+
+.hourglass{
+    width: 28vw;
+    margin-top: 4vw;
+    margin-left: 9vw;
+}
+
+.insert{
+    width: 20vw;
+    margin-top: 4vw;
+    margin-left: 1.3vw;
+    position: absolute;
+}
+
+.hourglass2{
+    width: 14vw;
+    margin-top: 4vw;
+    margin-left: 22.6vw;
+        position: absolute;
+}
+
+.dlike{
+margin-top: -10vw;
+    font-size: 1.5vw;
+    margin-left: 51vw;
+    text-align: left;
+}
+
+.timee{
+margin-top: 5vw;
+    font-size: 1.5vw;
+    margin-left: 61vw;
+    text-align: left;
+}
+
+.appar{
+    margin-top: 0vw;
+    font-size: 1.5vw;
+    margin-left: 70vw;
+    text-align: left;
+}
