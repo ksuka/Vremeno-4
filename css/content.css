@@ -12,6 +12,10 @@ body{
    margin-left: 1.9vw;
 }
 
+.burger{
+    display: none;
+}
+
 .navv{
     display:flex;
     justify-content: space-between;
@@ -90,22 +94,6 @@ margin-top: 31.5vw;
 }
 
 
-/*
-.sand{
-    width: 50%;
-    margin-top: -2vw;
-    margin-left: 45vw;
-    position:absolute;
-}
-
-.sand2{
-    width: 63%;
-    margin-top: -23vw;
-    margin-left: 38.5vw;
-    position: absolute;
-}
-*/
-
 .sands{
     width: 42vw;
     height: 50vw;
@@ -137,10 +125,11 @@ margin-top: 31.5vw;
 }*/
 
 footer{
+    position: absolute;
     width: 100vw;
     overflow-x: hidden;
     height: 27vw;
-    margin-top: 45vw;
+    top: 55vw;
 }
 
 .footer{

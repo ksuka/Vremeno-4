@@ -1,0 +1,71 @@
+@media screen and (min-width: 414px) and (max-width: 767px){
+
+nav{
+    display:none;
+}
+
+
+}
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 413px){
+
+nav{
+    display:none;
+}
+
+.burger{
+    display:block;
+    margin-top: 16vw;
+   margin-left: 3vw;
+    /*width: 0%;*/
+}
+
+.VREMENO{
+    font-size: 11vw; 
+    margin-top: -90vw;
+   margin-left: 4vw;
+}
+
+.chance{
+ font-size: 5vw;
+    margin-top: -72vw;
+    margin-left: 25vw;
+}
+
+.lost{
+        font-size: 5vw;
+        margin-top: -66.3vw;
+        margin-left: 44vw;
+}
+
+.last{
+
+}
+
+.time{
+
+}
+
+.ready{
+
+}
+
+.fight{
+
+}
+
+
+.sand{
+    width: 90%;
+    margin-left: 0vw;
+    margin-top: 60vw;
+}
+.sands{
+    width: 90vw;
+    height: 94vw;
+    margin-left: 0vw;
+    margin-top: 60vw;
+}
+
+}
