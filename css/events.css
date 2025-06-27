@@ -82,3 +82,88 @@ margin-top: -14vw;
     margin-top: 2vw;
     margin-left: 2vw;
 }
+
+.descriptors{
+    width: 40vw;
+    height: 80vw;
+    margin-top: -160vw;
+    margin-left: 40vw;
+}
+
+.notime{
+    color: #FCF5F0;
+    font-size: 3vw;
+}
+
+.date1{
+    color: #FCF5F0;
+    font-size: 2vw;
+    margin-top: 4vw;
+}
+
+.descrip1{
+    color: #FCF5F0;
+    font-size: 1.5vw;
+    margin-top: 2vw;
+}
+
+.half1{
+    margin-top: 2vw;
+    width: 60%;
+}
+
+.discovery{
+     color: #FCF5F0;
+    font-size: 3vw;
+    margin-top: 5vw;
+}
+
+.tickets{
+        width: 40vw;
+    height: 80vw;
+    margin-top: -80vw;
+    margin-left: 75vw;
+}
+
+.tickets img{
+    width: 37%;
+}
+
+
+footer{
+    width: 100vw;
+    margin-top: 12vw;
+    overflow-x: hidden;
+    height: 27vw;
+}
+
+.footer{
+    width: 110%;
+        width: 100vw;
+    margin-top: 12vw;
+    overflow-x: hidden;
+    height: 27vw;
+}
+
+.name{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+    text-align: center;
+}
+
+.curator{
+    color: #FBEFE7;
+    font-size: 2vw;
+    margin-top: -2vw;
+    text-align: right;
+    margin-right: 3vw;
+}
