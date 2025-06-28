@@ -336,8 +336,9 @@ margin-top: 4.2vw;
 }
 
 footer{
+    position:absolute;
     width: 100vw;
-    margin-top: 12vw;
+    top: 203vw;
     overflow-x: hidden;
     height: 27vw;
 }

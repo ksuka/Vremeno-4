@@ -63,9 +63,20 @@ nav{
 }
 .sands{
     width: 90vw;
-    height: 94vw;
-    margin-left: 0vw;
-    margin-top: 60vw;
+    height: 90vw;
+    margin-left: 5vw;
+    background-size:cover;
+    background-position: center center;
 }
+
+@keyframes sands{
+    0%{ background-position: 0;}
+    50%{ background-position: -83vw;}
+    70%{ background-position: -166vw;}
+    100%{ background-position: 0vw;}
+}
+
+
+
 
 }

@@ -131,8 +131,10 @@ margin-top: -14vw;
 
 
 footer{
+    position:absolute;
     width: 100vw;
-    margin-top: 12vw;
+    height: 90vw;
+    top: 180vw;
     overflow-x: hidden;
     height: 27vw;
 }
