@@ -313,4 +313,53 @@ border-radius: 3vw;
     font-size: 3.3vw;
 }
 
+.receipt2{
+        width: 100vw;
+        height: 501vw;
+        margin-top: -501vw;
+}
+
+.receipt2 img{
+width: 61%;
+        margin-top: 12vw;
+        margin-left: 20vw;
+}
+
+.receipt3{
+        width: 100vw;
+        height: 501vw;
+        margin-top: -501vw;
+}
+
+.receipt3 img{
+width: 61%;
+        margin-top: 12vw;
+        margin-left: 20vw;
+}
+
+.receipt4{
+        width: 100vw;
+        height: 501vw;
+        margin-top: -501vw;
+}
+
+.receipt4 img{
+width: 61%;
+        margin-top: 12vw;
+        margin-left: 20vw;
+}
+
+.receipt5{
+        width: 100vw;
+        height: 501vw;
+        margin-top: -501vw;
+}
+
+.receipt5 img{
+width: 61%;
+        margin-top: 12vw;
+        margin-left: 20vw;
+}
+
+
 }
