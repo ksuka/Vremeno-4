@@ -31,7 +31,7 @@ nav{
     display:block;
     position:absolute;
     margin-left: 45vw;
-    margin-top:-92vw;
+    margin-top:-217vw;
        /* background-color: white;*/
         width: 55vw;
         height: 80vw;
@@ -87,27 +87,29 @@ nav{
 }
 
 .poster2{
-    margin-top: 73vw;
+    margin-top: 68vw;
 }
 
 .poster3{
-    margin-top: 73vw;
+    margin-top: 63vw;
 }
 
 .poster4{
-    margin-top: 73vw;
+    margin-top: 59vw;
 }
 
 
 
 .descriptors{
         width: 85vw;
-        margin-top: -538vw;
+        margin-top: -516vw;
         margin-left: 11vw;
 }
 
 .notime{
     font-size: 7vw;
+    margin-top: 4vw; 
+
 }
 
 .date1{
@@ -120,8 +122,52 @@ nav{
     margin-top: 2vw;
 }
 
+.discovery{
+     color: #FCF5F0;
+    font-size: 7vw;
+    margin-top: 122vw;
+}
 
 
+footer{
+    height: 62vw;
+    top: 706vw;
+}
+
+.footer{
+    width: 150%;
+}
+
+.inf {
+    margin-top: 4vw;
+  display: flex;
+  flex-direction: column;  
+  align-items: flex-start; 
+  padding-left: 2vw;    
+  gap: 0.5vw;     
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
 
 
 }
