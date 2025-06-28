@@ -37,7 +37,7 @@ nav{
         position: absolute;
         width: 50vw;
         background-color: rgba(255, 255, 255, 0.851);
-        top: 13vw;
+        top: 4vw;
         left: -2vw;
         padding: 3vw;
         text-align: right;
@@ -99,7 +99,7 @@ font-size: 5vw;
 
 .sand{
     width: 100%;
-    margin-left: 0vw;
+    margin-left: 1.5vw;
     margin-top: 67vw;
 }
 .sands{
@@ -113,14 +113,120 @@ font-size: 5vw;
 
 @keyframes sands{
     0%{ background-position: 0;}
-   /* 50%{ background-position: -83vw;}
-    70%{ background-position: -166vw;}
-    100%{ background-position: 0vw;}*/
+   50%{ background-position: -113vw;}
+    70%{ background-position: -226vw;}
+    100%{ background-position: 0vw;}
 }
+
+
+.pics{ 
+    visibility: hidden;
+}
+
+.pic20 {
+visibility: visible;
+        margin-top: -99.7vw;
+        margin-left: -7vw;
+        width: 14%;
+}
+
+.pic7 {
+        visibility: visible;
+        margin-top: -90.7vw;
+        margin-left: -14vw;
+        width: 14%;
+}
+
+.pic11 {
+visibility: visible;
+        margin-top: -72.7vw;
+        margin-left: 0vw;
+        width: 12%;
+}
+
+.pic6 {
+        visibility: visible;
+        margin-top: 51.3vw;
+        margin-left: -13vw;
+        width: 17%;
+}
+
+.pic18 {
+        visibility: visible;
+        margin-top: 33.3vw;
+        margin-left: 3vw;
+        width: 13%;
+}
+
+.pic19 {
+        visibility: visible;
+        margin-top: 40.3vw;
+        margin-left: 20vw;
+        width: 11%;
+}
+
+.pic10 {
+        visibility: visible;
+        margin-top: 36.3vw;
+        margin-left: 30vw;
+        width: 8%;
+}
+
+.pic1 {
+        visibility: visible;
+        margin-top: 27.7vw;
+        margin-left: 55vw;
+        width: 12%;
+}
+
+.pic4 {
+        visibility: visible;
+        margin-top: 35.7vw;
+        margin-left: 53vw;
+        width: 12%;
+}
+
+
+
 
 footer{
-    display: none;
+    height: 49vw;
+    top: 201vw;
 }
 
+.footer{
+    width: 150%;
+}
+
+.inf {
+    margin-top: 4vw;
+  display: flex;
+  flex-direction: column;  
+  align-items: flex-start; 
+  padding-left: 2vw;    
+  gap: 0.5vw;     
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
 
 }
