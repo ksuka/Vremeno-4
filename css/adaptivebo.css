@@ -1,23 +1,4 @@
-@media screen and (min-width: 414px) and (max-width: 767px){
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
-@media screen and (min-device-width: 360px) and (max-device-width: 413px){
+@media screen and (min-width: 414px) and (max-width: 567px){
 nav{
     display:none;
 }
@@ -26,7 +7,7 @@ nav{
     display:block;
     position:absolute;
     margin-left: 45vw;
-    margin-top:-183vw;
+    margin-top:-345vw;
        /* background-color: white;*/
         width: 55vw;
         height: 80vw;
@@ -41,6 +22,7 @@ nav{
 }
 
 .menu2 {
+    display: none;
         position: absolute;
         width: 50vw;
         background-color: #2b3a30c6;
@@ -62,7 +44,7 @@ nav{
 
 footer{
     height: 49vw;
-    top: 201vw;
+    top: 382vw;
 }
 
 .footer{
@@ -136,74 +118,87 @@ border-radius: 3vw;
         position: absolute;
         width: 28%;
         margin-top: 84vw;
-        margin-left: 48vw;
+        margin-left: 64vw;
 }
 
 .page2{
         position: absolute;
         width: 28%;
-        margin-top: 70vw;
+        margin-top: 73vw;
         margin-left: 29vw;
 }
 
 .page4{
         position: absolute;
         width: 28%;
-        margin-top: 110vw;
+        margin-top: 120vw;
         margin-left: 11vw;
 }
-
-.page{
+.page6{
+    display: none;
+}
+.page13{
+position: absolute;
+        width: 28%;
+        margin-top: 233vw;
+        margin-left: 61vw;
+}
+.page14{
+    display: none;
+}
+.page15{
+    display: none;
+}
+.page16{
     display: none;
 }
 
 .page5{
 position: absolute;
         width: 28%;
-        margin-top: 164vw;
+        margin-top: 155vw;
         margin-left: 24vw;
 }
 
-.page7{
-position: absolute;
-        width: 28%;
-        margin-top: 177vw;
-        margin-left: 8vw;
-}
-
-.page8{
+    .page7 {
         position: absolute;
         width: 28%;
-        margin-top: 194vw;
-        margin-left: 53vw;
-}
+        margin-top: 163vw;
+        margin-left: 63vw;
+    }
+    .page8 {
+        position: absolute;
+        width: 28%;
+        margin-top: 199vw;
+        margin-left: 32vw;
+    }
 
 .page9{
-        position: absolute;
+position: absolute;
         width: 28%;
-        margin-top: 276vw;
-        margin-left: 12vw;
+        margin-top: 291vw;
+        margin-left: 6vw;
 }
 
 .page10{
 position: absolute;
         width: 28%;
-        margin-top: 287vw;
+        margin-top: 307vw;
         margin-left: 66vw;
 }
 
 .page11{
-position: absolute;
+        position: absolute;
         width: 28%;
-        margin-top: 322vw;
-        margin-left: 45vw;
+        margin-top: 356vw;
+        margin-left: 37vw;
 }
 
 .page12{
         position: absolute;
         width: 28%;
-        margin-top: 340vw;
-        margin-left: 28vw;
+        margin-top: 344vw;
+        margin-left: 13vw;
 }
 
 .br {
@@ -219,6 +214,494 @@ position: absolute;
     font-size: 3.5vw;
     margin-left: 51vw;
 }
+
+.ts {
+    color: #FBEFE7;
+    margin-top: 39vw;
+    font-size: 3.5vw;
+    text-align: left;
+    margin-left: 5vw;
+}
+
+.tr {
+    color: #FBEFE7;
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-right: 6vw;
+    text-align: right;
+}
+
+.iw {
+    color: #FBEFE7;
+    margin-top: 10vw;
+    font-size: 3.5vw;
+    margin-right: 14vw;
+    text-align: right;
+}
+
+    .ns {
+        color: #FBEFE7;
+        margin-top: 27vw;
+        font-size: 3.5vw;
+        margin-left: 5vw;
+    }
+
+.de {
+    color: #FBEFE7;
+    margin-top: -7vw;
+    font-size: 3.5vw;
+    margin-left: 14vw;
+}
+
+.ou {
+    color: #FBEFE7;
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-left: 65vw;
+}
+
+.plashka{
+    width: 34vw;
+    height: 24vw;
+    margin-top: 14vw;
+    margin-left: 2vw;
+}
+
+.VREMENO{
+    font-size: 9vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.price {
+    font-size: 6vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.personal{
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.readd {
+        border-radius: 3vw;
+        border: 0.2vw solid #FBEFE7;
+        width: 28vw;
+        height: 6vw;
+        margin-top: 8vw;
+        margin-left: 2vw;
+}
+    .readd a {
+    text-decoration: none;
+    color: #FBEFE7;
+    font-size: 3vw;
+    font-weight: normal;
+}
+
+.frame img {
+visibility:hidden;
+}
+
+.ib
+ {
+    color: #FBEFE7;
+    margin-top: 17vw;
+    font-size: 3.5vw;
+    margin-right: 5vw;
+    text-align: right;
+}
+
+.cw
+ {
+    color: #FBEFE7;
+    margin-top: 2vw;
+    font-size: 3.5vw;
+    margin-left: 14vw;
+}
+
+.pp {
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-left: 50vw;
+}
+
+.la {
+    margin-top: 14vw;
+    font-size: 3.5vw;
+    margin-left: 26vw;
+}
+
+.nc {
+    margin-top: 5vw;
+    font-size: 3.5vw;
+    margin-left: -27vw;
+    text-align: center;
+}
+
+.re {
+        color: #FBEFE7;
+        margin-top: 2vw;
+        font-size: 3.5vw;
+        margin-left: 47vw;
+}
+}
+
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 413px){
+nav{
+    display:none;
+}
+
+.burger{
+    display:block;
+    position:absolute;
+    margin-left: 45vw;
+    margin-top:-345vw;
+       /* background-color: white;*/
+        width: 55vw;
+        height: 80vw;
+}
+
+.burgerr {
+        width: 17%;
+        display: block !important;
+        margin-top: -3vw;
+        margin-left: 42vw;
+
+}
+
+.menu2 {
+    display: none;
+        position: absolute;
+        width: 50vw;
+        background-color: #2b3a30c6;
+        top: 4vw;
+        left: -2vw;
+        padding: 3vw;
+        text-align: right;
+        height: 80vw;
+}
+
+.menu2 > a {
+    display:block;
+  color: #FCF5F0;
+  text-decoration: none;
+  font-size: 7vw;
+  margin: 1vw 0;                
+  text-align: right;
+}
+
+footer{
+    height: 49vw;
+    top: 382vw;
+}
+
+.footer{
+    width: 150%;
+}
+
+.inf {
+        margin-top: 4vw;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 5vw;
+        gap: 0.5vw;    
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+
+
+.casino {
+    color: #FBEFE7;
+    font-size: 11vw;
+    margin-top: 3vw;
+    letter-spacing: -0.1vw;
+    margin-left: 5vw;
+    letter-spacing: -7%;
+}
+
+.read {
+border-radius: 3vw;
+        border: 0.2vw solid #FBEFE7;
+        width: 28vw;
+        height: 6vw;
+        margin-top: 42vw;
+        margin-left: -79vw;
+}
+    .read a {
+    text-decoration: none;
+    color: #FBEFE7;
+    font-size: 3vw;
+    font-weight: normal;
+}
+
+.page1{
+        position: absolute;
+        width: 28%;
+        margin-top: 61vw;
+        margin-left: 5vw;
+}
+.page3 {
+        position: absolute;
+        width: 28%;
+        margin-top: 84vw;
+        margin-left: 64vw;
+}
+
+.page2{
+        position: absolute;
+        width: 28%;
+        margin-top: 73vw;
+        margin-left: 29vw;
+}
+
+.page4{
+        position: absolute;
+        width: 28%;
+        margin-top: 120vw;
+        margin-left: 11vw;
+}
+.page6{
+    display: none;
+}
+.page13{
+position: absolute;
+        width: 28%;
+        margin-top: 233vw;
+        margin-left: 61vw;
+}
+.page14{
+    display: none;
+}
+.page15{
+    display: none;
+}
+.page16{
+    display: none;
+}
+
+.page5{
+position: absolute;
+        width: 28%;
+        margin-top: 155vw;
+        margin-left: 24vw;
+}
+
+    .page7 {
+        position: absolute;
+        width: 28%;
+        margin-top: 163vw;
+        margin-left: 63vw;
+    }
+    .page8 {
+        position: absolute;
+        width: 28%;
+        margin-top: 199vw;
+        margin-left: 32vw;
+    }
+
+.page9{
+position: absolute;
+        width: 28%;
+        margin-top: 291vw;
+        margin-left: 6vw;
+}
+
+.page10{
+position: absolute;
+        width: 28%;
+        margin-top: 307vw;
+        margin-left: 66vw;
+}
+
+.page11{
+        position: absolute;
+        width: 28%;
+        margin-top: 356vw;
+        margin-left: 37vw;
+}
+
+.page12{
+        position: absolute;
+        width: 28%;
+        margin-top: 344vw;
+        margin-left: 13vw;
+}
+
+.br {
+    color: #FBEFE7;
+    margin-top: 2vw;
+    font-size: 3.5vw;
+    margin-left: 40vw;
+}
+
+.ov {
+    color: #FBEFE7;
+    margin-top: 0;
+    font-size: 3.5vw;
+    margin-left: 51vw;
+}
+
+.ts {
+    color: #FBEFE7;
+    margin-top: 39vw;
+    font-size: 3.5vw;
+    text-align: left;
+    margin-left: 5vw;
+}
+
+.tr {
+    color: #FBEFE7;
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-right: 6vw;
+    text-align: right;
+}
+
+.iw {
+    color: #FBEFE7;
+    margin-top: 10vw;
+    font-size: 3.5vw;
+    margin-right: 14vw;
+    text-align: right;
+}
+
+    .ns {
+        color: #FBEFE7;
+        margin-top: 27vw;
+        font-size: 3.5vw;
+        margin-left: 5vw;
+    }
+
+.de {
+    color: #FBEFE7;
+    margin-top: -7vw;
+    font-size: 3.5vw;
+    margin-left: 14vw;
+}
+
+.ou {
+    color: #FBEFE7;
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-left: 65vw;
+}
+
+.plashka{
+    width: 34vw;
+    height: 24vw;
+    margin-top: 14vw;
+    margin-left: 2vw;
+}
+
+.VREMENO{
+    font-size: 9vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.price {
+    font-size: 6vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.personal{
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.readd {
+        border-radius: 3vw;
+        border: 0.2vw solid #FBEFE7;
+        width: 28vw;
+        height: 6vw;
+        margin-top: 8vw;
+        margin-left: 2vw;
+}
+    .readd a {
+    text-decoration: none;
+    color: #FBEFE7;
+    font-size: 3vw;
+    font-weight: normal;
+}
+
+.frame img {
+visibility:hidden;
+}
+
+.ib
+ {
+    color: #FBEFE7;
+    margin-top: 17vw;
+    font-size: 3.5vw;
+    margin-right: 5vw;
+    text-align: right;
+}
+
+.cw
+ {
+    color: #FBEFE7;
+    margin-top: 2vw;
+    font-size: 3.5vw;
+    margin-left: 14vw;
+}
+
+.pp {
+    margin-top: 6vw;
+    font-size: 3.5vw;
+    margin-left: 50vw;
+}
+
+.la {
+    margin-top: 14vw;
+    font-size: 3.5vw;
+    margin-left: 26vw;
+}
+
+.nc {
+    margin-top: 5vw;
+    font-size: 3.5vw;
+    margin-left: -27vw;
+    text-align: center;
+}
+
+.re {
+        color: #FBEFE7;
+        margin-top: 2vw;
+        font-size: 3.5vw;
+        margin-left: 47vw;
+}
+
+
+
+
 
 
 }
