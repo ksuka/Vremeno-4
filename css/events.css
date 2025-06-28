@@ -37,20 +37,11 @@ margin-top: -14vw;
     margin-left: 2vw;
 }
 
-
-/*
-.slide{
-    width: 100vw;
-    height: 80vw;
-}
+.burger{
+    display: none;
+} 
 
 
-.notime{
-    width: 40vw;
-    height: 40vw;
-    margin-top: 15vw;
-    
-}*/
 
 .posters{
     width: 30vw;

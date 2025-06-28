@@ -1,0 +1,127 @@
+@media screen and (min-width: 414px) and (max-width: 767px){
+
+.tickets{
+   display: none;
+
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 413px){
+
+nav{
+    display:none;
+}
+
+.burger{
+    display:block;
+    position:absolute;
+    margin-left: 45vw;
+    margin-top:-92vw;
+       /* background-color: white;*/
+        width: 55vw;
+        height: 80vw;
+}
+
+.burgerr {
+        width: 17%;
+        display: block !important;
+        margin-top: -2vw;
+        margin-left: 42vw;
+
+}
+
+.menu2 {
+    display: none;
+        position: absolute;
+        width: 50vw;
+        background-color: #2b3a30c6;
+        top: 4vw;
+        left: -2vw;
+        padding: 3vw;
+        text-align: right;
+        height: 80vw;
+}
+
+.menu2 > a {
+    display:block;
+  color: #FCF5F0;
+  text-decoration: none;
+  font-size: 7vw;
+  margin: 1vw 0;                
+  text-align: right;
+}
+
+.events{
+    font-size: 11vw;
+    margin-left: 5vw;
+}
+
+.tickets, .half1, .half2, .half3{
+   display: none;
+
+}
+
+.posters{
+    width: 85vw;
+    margin-left: 10vw;
+    margin-top: 17vw;
+}
+
+.poster1{
+    margin-top: 13vw; 
+}
+
+.poster2{
+    margin-top: 73vw;
+}
+
+.poster3{
+    margin-top: 73vw;
+}
+
+.poster4{
+    margin-top: 73vw;
+}
+
+
+
+.descriptors{
+        width: 85vw;
+        margin-top: -538vw;
+        margin-left: 11vw;
+}
+
+.notime{
+    font-size: 7vw;
+}
+
+.date1{
+    font-size: 5vw;
+    margin-top: 4vw;
+}
+
+.descrip1{
+    font-size: 4vw;
+    margin-top: 2vw;
+}
+
+
+
+
+
+}

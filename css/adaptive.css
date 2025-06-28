@@ -4,7 +4,220 @@ nav{
     display:none;
 }
 
+.burger{
+    display:block;
+    position:absolute;
+    margin-left: 45vw;
+    margin-top:-139vw;
+       /* background-color: white;*/
+        width: 55vw;
+        height: 80vw;
+}
 
+.burgerr {
+        width: 17%;
+        display: block !important;
+        margin-top: -2vw;
+        margin-left: 42vw;
+
+}
+
+.menu2 {
+    display: none;
+        position: absolute;
+        width: 50vw;
+        background-color: rgba(255, 255, 255, 0.851);
+        top: 4vw;
+        left: -2vw;
+        padding: 3vw;
+        text-align: right;
+        height: 80vw;
+}
+
+.menu2 > a {
+    display:block;
+  color: black;
+  text-decoration: none;
+  font-size: 7vw;
+  margin: 1vw 0;                
+  text-align: right;
+}
+
+.VREMENO{
+        font-size: 11vw;
+        margin-top: -124vw;
+        margin-left: 4vw;
+}
+
+.chance{
+ font-size: 5vw;
+    margin-top: -109.3vw;
+    margin-left: 25vw;
+}
+
+.lost{
+        font-size: 5vw;
+        margin-top: -104.3vw;
+        margin-left: 44vw;
+}
+
+.last{
+        font-size: 5vw;
+        margin-top: -99.2vw;
+        margin-left: 55vw;
+}
+
+.time{
+        font-size: 5vw;
+        margin-top:-89.1vw;
+        margin-left: 31vw;
+}
+
+.ready{
+font-size: 5vw;
+        margin-top: -79.5vw;
+        margin-left: 42vw;
+    }
+
+
+.fight{
+        font-size: 5vw;
+        margin-top: -64.5vw;
+        margin-left: 54vw;
+}
+
+
+.sand{
+    width: 100%;
+    margin-left: 1.5vw;
+    margin-top: 67vw;
+}
+.sands{
+    width: 120vw;
+    height: 120vw;
+    margin-left: -4vw;
+    margin-top: 6vw;
+    background-size:cover;
+    background-position: center center;
+}
+
+@keyframes sands{
+    0%{ background-position: 0;}
+   50%{ background-position: -113vw;}
+    70%{ background-position: -226vw;}
+    100%{ background-position: 0vw;}
+}
+
+
+.pics{ 
+    visibility: hidden;
+}
+
+.pic20 {
+visibility: visible;
+        margin-top: -99.7vw;
+        margin-left: -7vw;
+        width: 14%;
+}
+
+.pic7 {
+        visibility: visible;
+        margin-top: -90.7vw;
+        margin-left: -14vw;
+        width: 14%;
+}
+
+.pic11 {
+visibility: visible;
+        margin-top: -72.7vw;
+        margin-left: 0vw;
+        width: 12%;
+}
+
+.pic6 {
+        visibility: visible;
+        margin-top: 51.3vw;
+        margin-left: -13vw;
+        width: 17%;
+}
+
+.pic18 {
+        visibility: visible;
+        margin-top: 33.3vw;
+        margin-left: 3vw;
+        width: 13%;
+}
+
+.pic19 {
+        visibility: visible;
+        margin-top: 40.3vw;
+        margin-left: 20vw;
+        width: 11%;
+}
+
+.pic10 {
+        visibility: visible;
+        margin-top: 36.3vw;
+        margin-left: 30vw;
+        width: 8%;
+}
+
+.pic1 {
+        visibility: visible;
+        margin-top: 27.7vw;
+        margin-left: 55vw;
+        width: 12%;
+}
+
+.pic4 {
+        visibility: visible;
+        margin-top: 35.7vw;
+        margin-left: 53vw;
+        width: 12%;
+}
+
+
+
+
+footer{
+    height: 49vw;
+    top: 201vw;
+}
+
+.footer{
+    width: 150%;
+}
+
+.inf {
+    margin-top: 4vw;
+  display: flex;
+  flex-direction: column;  
+  align-items: flex-start; 
+  padding-left: 2vw;    
+  gap: 0.5vw;     
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
 }
 
 
