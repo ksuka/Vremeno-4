@@ -400,3 +400,7 @@ footer{
     text-align: right;
     margin-right: 3vw;
 }
+
+.burger{
+    display: none;
+}
