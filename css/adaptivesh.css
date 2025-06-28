@@ -193,7 +193,7 @@ margin-top: -7.5vw;
 }
 
 .cards_img{
-        width: 95%;
+        width: 96%;
         margin-left: 1vw;
         margin-top: 2vw;
 }
@@ -210,6 +210,59 @@ margin-top: -7.5vw;
     font-size: 3.5vw;
 }
 
+.umbrella{
+        border-radius: 2.5vw;
+        margin-top: 6vw;
+        border: 0.2vw solid #000000;
+        width: 80vw;
+        height: 65vw;
+        margin-left: 10vw;
+}
+
+.umbrella_img{
+        width: 91%;
+        margin-left: 3vw;
+        margin-top: -5vw;
+}
+
+.umbrellaa{
+        margin-top: -4.5vw;
+        margin-left: 3.8vw;
+        font-size: 3.8vw;
+}
+
+.price5{
+    margin-top: 1.6vw;
+    margin-left: 3.8vw;
+    font-size: 3.5vw;
+}
+
+.tote_bag{
+        border-radius: 2.5vw;
+        margin-top: 6vw;
+        border: 0.2vw solid #000000;
+        width: 80vw;
+        height: 65vw;
+        margin-left: 10vw;
+}
+
+.tote_bag_img{
+        width: 92%;
+        margin-left: 3vw;
+        margin-top: -2vw;
+}
+
+.tote_bagg{
+        margin-top: 0.5vw;
+        margin-left: 3.8vw;
+        font-size: 3.8vw;
+}
+
+.price6{
+    margin-top: 1.6vw;
+    margin-left: 3.8vw;
+    font-size: 3.5vw;
+}
 
 
 
