@@ -18,7 +18,7 @@ nav{
     display:block;
     position:absolute;
     margin-left: 45vw;
-    margin-top: -110vw;
+    margin-top:-139vw;
        /* background-color: white;*/
         width: 55vw;
         height: 80vw;
@@ -27,7 +27,7 @@ nav{
 .burgerr {
         width: 17%;
         display: block !important;
-        margin-top: 5vw;
+        margin-top: -2vw;
         margin-left: 42vw;
 
 }
@@ -54,61 +54,73 @@ nav{
 }
 
 .VREMENO{
-    font-size: 11vw; 
-    margin-top: -90vw;
-   margin-left: 4vw;
+        font-size: 11vw;
+        margin-top: -124vw;
+        margin-left: 4vw;
 }
 
 .chance{
  font-size: 5vw;
-    margin-top: -72vw;
+    margin-top: -109.3vw;
     margin-left: 25vw;
 }
 
 .lost{
         font-size: 5vw;
-        margin-top: -66.3vw;
+        margin-top: -104.3vw;
         margin-left: 44vw;
 }
 
 .last{
-
+        font-size: 5vw;
+        margin-top: -99.2vw;
+        margin-left: 55vw;
 }
 
 .time{
-
+        font-size: 5vw;
+        margin-top:-89.1vw;
+        margin-left: 31vw;
 }
 
 .ready{
+font-size: 5vw;
+        margin-top: -79.5vw;
+        margin-left: 42vw;
+    }
 
-}
 
 .fight{
-
+        font-size: 5vw;
+        margin-top: -64.5vw;
+        margin-left: 54vw;
 }
 
 
 .sand{
-    width: 90%;
+    width: 100%;
     margin-left: 0vw;
-    margin-top: 60vw;
+    margin-top: 67vw;
 }
 .sands{
-    width: 90vw;
-    height: 90vw;
-    margin-left: 5vw;
+    width: 120vw;
+    height: 120vw;
+    margin-left: -4vw;
+    margin-top: 6vw;
     background-size:cover;
     background-position: center center;
 }
 
 @keyframes sands{
     0%{ background-position: 0;}
-    50%{ background-position: -83vw;}
+   /* 50%{ background-position: -83vw;}
     70%{ background-position: -166vw;}
-    100%{ background-position: 0vw;}
+    100%{ background-position: 0vw;}*/
 }
 
-
+footer{
+    display: none;
+}
 
 
 }
