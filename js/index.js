@@ -1,5 +1,19 @@
 document.addEventListener("DOMContentLoaded", function(){
 
+
+const menu = document.querySelector('.menu2');
+const burger = document.querySelector('.burger');
+
+burger.addEventListener('click', function () {
+    if (menu.style.display === "block") {
+        menu.style.display = "none";
+    } else {
+        menu.style.display = "block";
+    }
+});
+
+
+
     
 const receipt = document.querySelector('.receipt');
 const cards = document.querySelector('.cards');
@@ -115,6 +129,7 @@ function updateAllClocks() {
 }
 
 window.addEventListener('DOMContentLoaded', updateAllClocks);
+
 
 
 /*
