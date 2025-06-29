@@ -132,6 +132,11 @@ window.addEventListener('DOMContentLoaded', updateAllClocks);
 
 
 
+
+
+
+
+
 /*
 window.addEventListener("DOMContentLoaded", () => {
   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
