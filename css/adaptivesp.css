@@ -116,7 +116,7 @@ nav{
     display:block;
     position:absolute;
     margin-left: 45vw;
-    margin-top:-183vw;
+    margin-top:-861vw;
        /* background-color: white;*/
         width: 55vw;
         height: 80vw;
@@ -152,8 +152,8 @@ nav{
 }
 
 footer{
-    height: 49vw;
-    top: 201vw;
+        height: 49vw;
+        top: 931vw;
 }
 
 .footer{
@@ -190,13 +190,6 @@ footer{
     margin-top: -2vw;
     margin-left: 3vw;
 }
-
-.video{
-    visibility:hidden
-}
-
-
-
 
 .spaace{
         font-size: 11vw;
@@ -265,6 +258,115 @@ display: none;
   margin-left: 5vw; 
 }
 
+.lobby
+ {
+    width: 100vw;
+    margin-top: 13vw;
+    margin-left: 0vw;
+}
+
+.vremeno
+ {
+    margin-top: 2vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.drunk {
+    margin-top: 0.5vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.register {
+    margin-top: 0.5vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.operate
+ {
+    margin-top: 0vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.atmosphere
+ {
+    font-size: 10vw;
+    margin-top: 13vw;
+    margin-left: 1.9vw;
+}
+
+
+.bar {
+position: absolute;
+        width: 100vw;
+        top: 590vw;
+        margin-left: 0vw;
+}
+
+.here{
+    margin-top: 136vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.barcard {
+        border-radius: 3vw;
+        border: 0.3vw solid #000000;
+        width: 38vw;
+        height: 7vw;
+        margin-top: 3.5vw;
+        margin-left: 5vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;    
+}
+
+.barcard a {
+    font-size: 3.5vw;
+}
+
+.hourglass {
+    width: 100vw;
+    margin-top: 14vw;
+    margin-left: 0vw;
+}
+
+.dlike {
+    margin-top: 2vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.timee {
+    margin-top: 0vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.appar {
+    margin-top: 0vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+
+.video{
+width: 90vw;
+height: auto;
+margin-top: 10vw;
+}
 
 
 
