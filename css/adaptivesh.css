@@ -643,6 +643,20 @@ width: 61%;
         margin-left: 20vw;
 }
 
+.receipt{
+        width: 100vw;
+        height: 501vw;
+        margin-top: -501vw;
+}
+
+.receipt img{
+width: 61%;
+        margin-top: 12vw;
+        margin-left: 20vw;
+}
+
+
+
 .btn0 {
     border-radius: 3vw;
     border: 0.2vw solid #000000;

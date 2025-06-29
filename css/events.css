@@ -133,9 +133,9 @@ footer{
 .footer{
     width: 110%;
         width: 100vw;
-    margin-top: 12vw;
+    margin-top: 18vw;
     overflow-x: hidden;
-    height: 27vw;
+    height: 20vw;
 }
 
 .name{
