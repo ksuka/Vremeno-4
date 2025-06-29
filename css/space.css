@@ -201,10 +201,11 @@ margin-top: 5vw;
 }
 
 footer{
+    position:absolute;
     width: 100vw;
     overflow-x: hidden;
     height: 27vw;
-    margin-top: 5vw;
+    top: 247vw;
 }
 
 .footer{
@@ -235,6 +236,10 @@ footer{
 }
 
 .video{
-    margin-top: 7vw;
-    margin-left: 27vw;
+    margin-top: 5vw;
+    margin-left: 10vw;
+}
+
+.burger{
+    display: none;
 }
