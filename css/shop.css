@@ -4,6 +4,11 @@ body{
     background-color: #ffffff;
 }
 
+button{
+border-radius: 4vw!important;
+cursor: pointer;
+}
+
 .menu > a{
     color:black;
    text-decoration: none;
@@ -46,6 +51,7 @@ margin-top: 1vw;
     width: 15vw;
     height: 3vw;
     margin-top: 10.5vw;
+        transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
     margin-left: 77vw;
 }
 
@@ -54,6 +60,15 @@ margin-top: 1vw;
     color: #000000;
     font-size: 1.5vw;
     font-weight: normal;
+}
+
+.cart:hover {
+    background-color: black;
+    border-color: white;
+}
+
+.cart:hover a {
+    color: white;
 }
 
 .lighter{
@@ -336,6 +351,7 @@ margin-left: 36vw;
     height: 3vw;
 margin-top: 48vw;
     margin-left: -20vw;
+    transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
     font-family:  "Montserrat-Medium";
 }
 
@@ -344,6 +360,16 @@ margin-top: 48vw;
     color: #000000;
     font-size: 1.5vw;
     font-weight: normal;
+}
+
+.btn0:hover a {
+    color: white;
+}
+
+.btn0:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
 }
 
 .btn{
@@ -355,6 +381,7 @@ margin-top: 48vw;
     height: 3vw;
 margin-top: 52vw;
     margin-left: -20vw;
+        transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
     font-family:  "Montserrat-Medium";
 }
 
@@ -365,6 +392,15 @@ margin-top: 52vw;
     font-weight: normal;
 }
 
+.btn:hover a {
+    color: white;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
 
 
 footer{

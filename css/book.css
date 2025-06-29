@@ -4,6 +4,11 @@ body{
     background-color: #2B3A30;
 }
 
+button{
+border-radius: 4vw!important;
+cursor: pointer;
+}
+
 .menu > a{
     color:#FBEFE7;
    text-decoration: none;
@@ -81,6 +86,7 @@ margin-top: 8vw;
     width: 15vw;
     height: 3vw;
     margin-top: 33vw;
+    transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
     margin-left: -42vw;
 }
 
@@ -89,6 +95,16 @@ margin-top: 8vw;
     color: #FBEFE7;
     font-size: 1.5vw;
     font-weight: normal;
+}
+
+
+.read:hover {
+    background-color: #FBEFE7;
+    border-color: #2B3A30;
+}
+
+.read:hover a {
+    color: #2B3A30;
 }
 
 .page4 {
@@ -281,6 +297,7 @@ font-size: 1.3vw;
     width: 18vw;
     height: 3.5vw;
 margin-top: 4.2vw;
+transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
     margin-left: 4vw;
 }
 
@@ -289,6 +306,15 @@ margin-top: 4.2vw;
     color: #FBEFE7;
     font-size: 2vw;
     font-weight: normal;
+}
+
+.readd:hover {
+    background-color: #FBEFE7;
+    border-color: #2B3A30;
+}
+
+.readd:hover a {
+    color: #2B3A30;
 }
 
 .ib{
