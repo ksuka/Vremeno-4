@@ -1,0 +1,271 @@
+@media screen and (min-width: 414px) and (max-width: 767px){
+nav{
+    display:none;
+}
+
+.burger{
+    display:block;
+    position:absolute;
+    margin-left: 45vw;
+    margin-top:-183vw;
+       /* background-color: white;*/
+        width: 55vw;
+        height: 80vw;
+}
+
+.burgerr {
+        width: 17%;
+        display: block !important;
+        margin-top: -314vw;
+        margin-left: 42vw;
+
+}
+
+.menu2 {
+    display: none;
+        position: absolute;
+        width: 50vw;
+        background-color: rgba(255, 255, 255, 0.851);
+        top: -308vw;
+        left: -2vw;
+        padding: 3vw;
+        text-align: right;
+        height: 80vw;
+}
+
+.menu2 > a {
+    display:block;
+  color: black;
+  text-decoration: none;
+  font-size: 7vw;
+  margin: 1vw 0;                
+  text-align: right;
+}
+
+footer{
+    height: 49vw;
+    top: 201vw;
+}
+
+.footer{
+    width: 150%;
+}
+
+.inf {
+        margin-top: 4vw;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 5vw;
+        gap: 0.5vw;    
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.shopp{
+        font-size: 11vw;
+        margin-top: 15vw;
+        margin-left: 4vw;
+}
+
+.cart{
+        border-radius: 3vw;
+        border: 0.3vw solid #000000;
+        width: 28vw;
+        height: 7vw;
+        margin-top: 16.5vw;
+        margin-left: 67vw;
+}
+
+.cart a{
+    font-size: 3.5vw;
+}
+
+
+}
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 413px){
+
+
+nav{
+    display:none;
+}
+
+.burger{
+    display:block;
+    position:absolute;
+    margin-left: 45vw;
+    margin-top:-183vw;
+       /* background-color: white;*/
+        width: 55vw;
+        height: 80vw;
+}
+
+.burgerr {
+        width: 17%;
+        display: block !important;
+        margin-top: -63vw;
+        margin-left: 42vw;
+
+}
+
+.menu2 {
+    display: none;
+        position: absolute;
+        width: 50vw;
+        background-color: rgba(255, 255, 255, 0.851);
+        top: -57vw;
+        left: -2vw;
+        padding: 3vw;
+        text-align: right;
+        height: 80vw;
+}
+
+.menu2 > a {
+    display:block;
+  color: black;
+  text-decoration: none;
+  font-size: 7vw;
+  margin: 1vw 0;                
+  text-align: right;
+}
+
+footer{
+    height: 49vw;
+    top: 201vw;
+}
+
+.footer{
+    width: 150%;
+}
+
+.inf {
+        margin-top: 4vw;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 5vw;
+        gap: 0.5vw;    
+}
+
+.inf p {
+  margin: 0;
+}
+
+.name{
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-left: 3vw;
+}
+
+.group{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.curator{
+    font-size: 5vw;
+    margin-top: -2vw;
+    margin-left: 3vw;
+}
+
+.video{
+    visibility:hidden
+}
+
+
+
+
+.spaace{
+        font-size: 11vw;
+        margin-top: 15vw;
+        margin-left: 4vw;
+}
+
+.visit{
+        border-radius: 3vw;
+        border: 0.3vw solid #000000;
+        width: 28vw;
+        height: 7vw;
+        margin-top: 16.5vw;
+        margin-left: 67vw;
+}
+
+.visit a{
+    font-size: 3.5vw;
+}
+
+.opport {
+    margin-top: 30vw;
+    font-size: 3.5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+.maze{
+    width: 100vw;
+    margin-top: 67vw;
+    margin-left: 0vw;
+}
+
+.play {
+  margin-top: -166vw;
+  font-size: 3.5vw;
+  position: relative; 
+  right: 5vw;         
+  width: 36vw;       
+  text-align: right;
+  margin-left: auto; 
+}
+
+.maze2{
+        width: 37vw;
+        margin-top: -51vw;
+        margin-left: 34vw;
+        position: absolute;
+
+}
+
+.insert {
+display: none;
+}
+
+.hourglass2{
+display: none;
+}
+
+.find {
+  margin-top: 150vw;
+  font-size: 3.5vw;
+  position: relative; 
+  width: 47vw;       
+  text-align: left;
+  margin-left: 5vw; 
+}
+
+
+
+
+}
