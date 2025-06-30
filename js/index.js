@@ -136,20 +136,18 @@ window.addEventListener('DOMContentLoaded', updateAllClocks);
 
 
 
-
-/*
 window.addEventListener("DOMContentLoaded", () => {
   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
   ScrollSmoother.create({
     wrapper: "#smooth-wrapper",
     content: "#smooth-content",
-    smooth: 1,
+    /*smooth: 1,
     effects: true,
-    smoothTouch: 0.1
+    smoothTouch: 0.1*/
   });
 });
-*/
+
 
 
 });

@@ -404,6 +404,7 @@ margin-top: 52vw;
 
 
 footer{
+    position: absolute;
     width: 100vw;
     overflow-x: hidden;
     height: 27vw;
