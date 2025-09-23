@@ -13,7 +13,7 @@ cursor: pointer;
    text-decoration: none;
    font-size: 1.3vw;
    position: fixed;
-   margin-top: -7vw;
+   margin-top: 2vw;
    margin-left: 1.9vw;
 }
 
@@ -28,7 +28,7 @@ cursor: pointer;
 width: 38vw;
 position: fixed;
 margin-left: 60vw;
-margin-top:-7vw;
+margin-top: 2vw;
 }
 
 .navv a{
@@ -552,12 +552,81 @@ position: absolute;
     margin-top: 100vw;
 }
 
-.text{
+#form p{
+    position:relative;
+font-size: 1.6vw;
+left: 2vw;
+font-family: "Montserrat-Medium";
+}
+
+#text1{
+    position: relative;
+    top: 2vw;
+    left: 2vw;
+    width: 17vw;
+    height: 2.3vw;
+    border: 0.2vw solid #000000;
+    border-radius: 2vw;
+    font-family: "Montserrat-Medium";
+}
+
+#text2{
+    position: relative;
+    top: 2vw;
+    margin: 0.4vw 2vw;
+    width: 17vw;
+    height: 2.3vw;
+    border: 0.2vw solid #000000;
+    border-radius: 2vw;
+    font-family: "Montserrat-Medium";
+}
+
+#email{
+    position: relative;
+    top: 2vw;
+    margin: 0vw 2vw;
+    width: 17vw;
+    height: 2.3vw;
+    border: 0.2vw solid #000000;
+    border-radius: 2vw; 
+    font-family: "Montserrat-Medium";
+}
+
+#number{
+    position: relative;
+    top: 2vw;
+    margin: 0vw 0vw;
+    width: 17.3vw;
+    height: 2.6vw;
+    border: 0.2vw solid #000000;
+    border-radius: 2vw; 
+    font-family: "Montserrat-Medium";
+}
+
+#reset{
+    position: relative;
+    top: 2vw;
     margin-top: 2vw;
     margin-left: 2vw;
-    width: 14vw;
-    height: 2.5vw;
-    margin: 0.2vw 0vw;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    width: 13vw;
+    height: 2.3vw;
+    border: 0.2vw solid #000000;
+    border-radius: 2vw; 
+    font-family: "Montserrat-Medium";
+}
+
+#submit{
+    position: relative;
+    top: 2vw;
+    margin: 0.4vw 2vw;
+    width: 13vw;
+    height: 2.3vw;
+    border: 0.2vw solid #000000;
+    background-color: #000000;
+    border-radius: 2vw; 
+    font-family: "Montserrat-Medium";
+}
+
+#submit a{
+    color: #ffffff;
 }
