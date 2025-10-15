@@ -365,9 +365,41 @@ footer{
     width: 100vw;
     overflow-x: hidden;
     height: 47vw;
-    top: 245vw;
+    top: 310vw;
 }
 
 .footer{
     width: 110%;
+}
+
+ul {
+  list-style-type: disc !important;
+}
+
+.aboutcas{
+    margin-top: 2vw;
+    font-size: 1.5vw;
+    margin-left: 2vw;
+    text-align: left;
+}
+
+table {
+    position: absolute;
+  width: 80%;
+  margin-left: 10vw;
+  border-collapse: collapse;
+  font-family:"Montserrat-Regular";
+}
+
+table th,
+table td {
+  border: 1px solid #000000;
+  padding: 12px;
+  text-align: left;
+    font-family:"Montserrat-Regular";
+}
+
+table th {
+  font-weight: bold;
+    font-family:"Montserrat-Regular";
 }

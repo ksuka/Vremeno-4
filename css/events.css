@@ -198,6 +198,40 @@ ease;
     color: #2B3A30;
 }
 
+
+.readdd{
+position: absolute;
+    border-radius: 2vw;
+    border: 0.2vw solid #FBEFE7;
+    background-color: #2B3A30;
+    width: 18vw;
+    height: 3.5vw;
+    margin-top: 1.8vw;
+    transition: background-color 0.4s 
+ease, color 0.4s 
+ease, border-color 0.4s 
+ease;
+    margin-left: 59vw;
+}
+
+.readdd a{
+    
+    text-decoration: none;
+    color: #FBEFE7;
+    font-size: 2vw;
+    font-weight: normal;
+}
+
+.readdd:hover {
+    background-color: #FBEFE7;
+    border-color: #2B3A30;
+}
+
+.readdd:hover a {
+    color: #2B3A30;
+}
+
+
 #form{
     margin-top: 4vw;
 }
